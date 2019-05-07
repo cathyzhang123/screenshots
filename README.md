@@ -1,2 +1,2 @@
 # screenshots
-screenshot assignment for MTM1526 Rich Media Services
+MTM1526 Rich Media Services. Subscription Screenshots
